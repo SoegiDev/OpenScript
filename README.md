@@ -1,8 +1,9 @@
 # OpenScript
 
-environment  
+environment : 
  - Python 3.9.5
-Test trial 
+
+Test trial : 
  -  ubuntu 20.04
 
 is Done :
